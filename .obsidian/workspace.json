@@ -40,23 +40,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "bf1df5742faef13d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cloude code/לקוחות קלוד-.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "לקוחות קלוד-"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,17 +201,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf1df5742faef13d",
+  "active": "6210741f09d39326",
   "lastOpenFiles": [
+    "cloude code/לקוחות קלוד-.md",
+    "README.md",
     "cloude code/פולואו-אפ לקוחות קלוד.md",
     "דירה חדשה.md",
     "תל אביב/דירה בקרל נטר- קניות.md",
     "יצירת דפי נחיתה.canvas",
     "פיתוחים חדשים בקלוד-.md",
-    "cloude code/לקוחות קלוד-.md",
     "cloude code/עבודה-קלוד.md",
     "קורס מידע פנים.md",
     "תל אביב/בדיקות בדירה החדשה.md",
