@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "746a66e844f1edbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf590eac9793485d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23547d4802d5fe7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trading/מסקנות מסחר.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "מסקנות מסחר"
+            }
+          },
+          {
+            "id": "fd06b2dba0cecbe2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6210741f09d39326",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "bf1df5742faef13d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cloude code/לקוחות קלוד-.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "לקוחות קלוד-"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62db98121c9fb6df",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f8190a130afd5c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d121097f0fff76ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "257a9f8dbfe461c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef665fb02eab1161",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "סימניות"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f3d8a49de74363a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6ef85898b233be7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6a7de86049d6d1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "764f1994312fc2fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ברוך הבא.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "קישורים יוצאים מ-ברוך הבא"
+            }
+          },
+          {
+            "id": "deed65d9759e1d09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "תגים"
+            }
+          },
+          {
+            "id": "f847518433f0baab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "כל המאפיינים"
+            }
+          },
+          {
+            "id": "ebb86c890f192b16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ברוך הבא.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "מתאר של ברוך הבא"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bf1df5742faef13d",
+  "lastOpenFiles": [
+    "cloude code/פולואו-אפ לקוחות קלוד.md",
+    "דירה חדשה.md",
+    "תל אביב/דירה בקרל נטר- קניות.md",
+    "יצירת דפי נחיתה.canvas",
+    "פיתוחים חדשים בקלוד-.md",
+    "cloude code/לקוחות קלוד-.md",
+    "cloude code/עבודה-קלוד.md",
+    "קורס מידע פנים.md",
+    "תל אביב/בדיקות בדירה החדשה.md",
+    "שטיח.md",
+    "תל אביב/תל אביב.md",
+    "trading/מסחר.md",
+    "מסקנות מסחר- אופציות.md",
+    "trading/מסקנות מסחר.md",
+    "Untitled",
+    "לימודים ברייכמן-יזמות.md",
+    "trading/market community.md",
+    "תל אביב/בדיקות בדירה החדשה 1.md",
+    "בדיקת-מערכת-חדשה.md",
+    "תל אביב",
+    "פתק-ניסיוני.md",
+    "ניסוי.md",
+    "התנהלות תחת לחץ.md",
+    "cloude code/פנייה ללקוח.md",
+    "trading",
+    "Untitled.base",
+    "‎⁨הצעת_מחיר_shopify⁩.pages",
+    "לקוחות",
+    "how to become a better trader.md",
+    "ברוך הבא.md",
+    "trading/community.md",
+    "cloude code"
+  ]
+}
