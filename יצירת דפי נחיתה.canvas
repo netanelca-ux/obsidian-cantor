@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"f443b2d18b588b30","type":"text","text":"יצירת דפי נחיתה","x":-155,"y":-220,"width":250,"height":60},
+		{"id":"29e2abda88283d67","type":"text","text":"מעלים אותו לvercele","x":60,"y":-111,"width":250,"height":60},
+		{"id":"44a9bfc0d02a068d","type":"text","text":"קונים domain ב cloudflare","x":60,"y":53,"width":250,"height":60},
+		{"id":"f6987ff80b7d1087","type":"text","text":"יצירת סקיל של דפי נחיתה- שימוש ב git- awesome design  ומשיכה של טמפלטים משם","x":-500,"y":-163,"width":250,"height":104},
+		{"id":"7a5d40c4a98e0462","type":"text","text":"עיצוב בעזרת קלוד בהשראה של טמפלטים","x":-480,"y":53,"width":250,"height":60},
+		{"id":"1106684e34095d95","type":"text","text":"[[פיתוחים חדשים בקלוד-]]","x":-230,"y":180,"width":250,"height":60},
+		{"id":"ba86ef80d126f027","x":-495,"y":300,"width":280,"height":93,"type":"text","text":"https://github.com/VoltAgent/awesome-design-md/\n"},
+		{"id":"956ada684074fe6f","x":-106,"y":316,"width":250,"height":60,"type":"text","text":"https://designmd.ai/"}
+	],
+	"edges":[
+		{"id":"34893c72b3bb19d5","fromNode":"f443b2d18b588b30","fromSide":"left","toNode":"f6987ff80b7d1087","toSide":"right"},
+		{"id":"dc463b97cd7b1abb","fromNode":"7a5d40c4a98e0462","fromSide":"right","toNode":"29e2abda88283d67","toSide":"top"},
+		{"id":"ea94b425c12a916f","fromNode":"29e2abda88283d67","fromSide":"bottom","toNode":"44a9bfc0d02a068d","toSide":"top"},
+		{"id":"776bf8af29486991","fromNode":"f6987ff80b7d1087","fromSide":"bottom","toNode":"7a5d40c4a98e0462","toSide":"top"},
+		{"id":"ef7264e4bf279fde","fromNode":"ba86ef80d126f027","fromSide":"right","toNode":"956ada684074fe6f","toSide":"left"},
+		{"id":"c3e6184267897807","fromNode":"956ada684074fe6f","fromSide":"left","toNode":"ba86ef80d126f027","toSide":"right"}
+	]
+}
