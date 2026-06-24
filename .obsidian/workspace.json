@@ -21,14 +21,13 @@
             "id": "fd06b2dba0cecbe2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "cloude code/לקוחות קלוד-.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "לקוחות קלוד-"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
@@ -196,8 +195,9 @@
   },
   "active": "fd06b2dba0cecbe2",
   "lastOpenFiles": [
-    "Untitled.md",
     "cloude code/לקוחות קלוד-.md",
+    "Untitled.base",
+    "Untitled.md",
     "Daily Notes/2026-06-17.md",
     "תל אביב/תל אביב.md",
     "תל אביב/דירה בקרל נטר- קניות.md",
@@ -227,8 +227,6 @@
     "Untitled",
     "תל אביב/בדיקות בדירה החדשה 1.md",
     "בדיקת-מערכת-חדשה.md",
-    "פתק-ניסיוני.md",
-    "Untitled.base",
     "‎⁨הצעת_מחיר_shopify⁩.pages",
     "לקוחות"
   ]
