@@ -4,30 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bf590eac9793485d",
+        "id": "5e35e9202c7f2c64",
         "type": "tabs",
         "children": [
           {
-            "id": "23547d4802d5fe7e",
+            "id": "28daccb93b09ec4a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "fd06b2dba0cecbe2",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
             }
           }
         ]
@@ -192,15 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23547d4802d5fe7e",
+  "active": "28daccb93b09ec4a",
   "lastOpenFiles": [
+    "Untitled.base",
+    "עסקים/תחומי עיסוק.md",
     "קהילת השקעות.md",
     "קהילת שוק ההון.md",
     "עסקים/פרויקטים.md",
     "Lists/רשימת דברים להביא לתל אביב מהבית.md",
     "Lists",
     "Untitled.canvas",
-    "Untitled.base",
     "cloude code/לקוחות קלוד-.md",
     "Untitled.md",
     "Daily Notes/2026-06-17.md",
@@ -225,9 +213,7 @@
     "cloude code/פולואו-אפ לקוחות קלוד.md",
     "cloude code/עבודה-קלוד.md",
     "cloude code",
-    "הערת-בדיקה.md",
     "Daily Notes",
-    "README.md",
     "Untitled",
     "‎⁨הצעת_מחיר_shopify⁩.pages",
     "לקוחות"
