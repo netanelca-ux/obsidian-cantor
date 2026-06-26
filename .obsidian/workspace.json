@@ -21,10 +21,14 @@
             "id": "4185cedb0d6dfd87",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "פרויקט סוכני הרמס.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "פרויקט סוכני הרמס"
             }
           }
         ],
@@ -192,6 +196,7 @@
   },
   "active": "4185cedb0d6dfd87",
   "lastOpenFiles": [
+    "פרויקט סוכני הרמס.md",
     "Lists/רשימת דברים להביא לתל אביב מהבית.md",
     "cloude code/עבודה-קלוד.md",
     "trading/מסחר.md",
