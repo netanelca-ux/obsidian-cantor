@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4185cedb0d6dfd87",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28daccb93b09ec4a",
+  "active": "4185cedb0d6dfd87",
   "lastOpenFiles": [
+    "אוטמציות לעסק של אבא.md",
     "Untitled.base",
     "עסקים/תחומי עיסוק.md",
     "קהילת השקעות.md",
@@ -190,7 +202,6 @@
     "Lists",
     "Untitled.canvas",
     "cloude code/לקוחות קלוד-.md",
-    "Untitled.md",
     "Daily Notes/2026-06-17.md",
     "תל אביב/תל אביב.md",
     "תל אביב/דירה בקרל נטר- קניות.md",
