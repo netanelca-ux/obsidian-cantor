@@ -21,10 +21,14 @@
             "id": "4185cedb0d6dfd87",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "פרויקט סוכני הרמס.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "פרויקט סוכני הרמס"
             }
           }
         ],
@@ -192,6 +196,7 @@
   },
   "active": "4185cedb0d6dfd87",
   "lastOpenFiles": [
+    "עסקים/פרויקטים.md",
     "פרויקט סוכני הרמס.md",
     "פרויקט סוכני הרמס/06 - קליטה וצעדים הבאים.md",
     "פרויקט סוכני הרמס/05 - מחקר ומקורות.md",
@@ -208,7 +213,6 @@
     "עסקים/תחומי עיסוק.md",
     "קהילת השקעות.md",
     "קהילת שוק ההון.md",
-    "עסקים/פרויקטים.md",
     "Lists",
     "Untitled.canvas",
     "cloude code/לקוחות קלוד-.md",
